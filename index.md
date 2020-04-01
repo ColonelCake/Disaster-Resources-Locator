@@ -16,8 +16,8 @@ With this application, suppliers and clients will be able to exchange valuable r
 
 ***
 ## See Entity-Relationship Diagram:
-https://www.lucidchart.com/documents/edit/c9d4ef91-22d8-4d52-bc6e-27d44dcad37e/0_0?shared=true
-https://imgur.com/a/mX6PTO1
+# [Link LucidChart file]https://www.lucidchart.com/documents/edit/c9d4ef91-22d8-4d52-bc6e-27d44dcad37e/0_0?shared=true
+# [Link Image]https://imgur.com/a/mX6PTO1
 
 ![Image](https://i.imgur.com/RbOlNeW.png)
 
