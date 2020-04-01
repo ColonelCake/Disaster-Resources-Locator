@@ -15,7 +15,7 @@ The Disaster Resources Locator is an application for the management of resources
 With this application, suppliers and clients will be able to exchange valuable resources through sales and/or donations efficiently along with facilitated functions for browsing, searching, and requesting various items. 
 
 ***
-## See Entity-Relationship Diagram:
+## Entity-Relationship Diagram:
 - [Link LucidChart file](https://www.lucidchart.com/documents/edit/c9d4ef91-22d8-4d52-bc6e-27d44dcad37e/0_0?shared=true)
 - [Link Image](https://imgur.com/a/mX6PTO1)
 
